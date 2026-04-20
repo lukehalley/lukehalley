@@ -2,8 +2,6 @@
 
 **Senior Cloud/DevOps Engineer** based in Perth, Australia
 
-Currently building cloud infrastructure at **[redacted]**
-
 ---
 
 ### What I Do
